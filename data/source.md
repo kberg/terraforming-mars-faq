@@ -132,7 +132,7 @@ Below is an outline of the setup order, with various expansion steps delineated.
 
 **Choosing Starting Cards**
 
-6. Players select 1 of the 2 corporations dealt to them and 0-10 project cards to keep in their starting hand (each project card costs 3 MC to keep.)
+6 Players select 1 of the 2 corporations dealt to them and 0-10 project cards to keep in their starting hand (each project card costs 3 MC to keep.)
 
 - (Prelude) Along with their corporation and starting project cards, if playing the Prelude expansion each player selects 2 out of their 4 Preludes to play.
 - Note that everyone must make decisions on what corporation and Preludes they are playing, and what project cards they are keeping BEFORE corporations and Preludes are revealed by all players.
@@ -1090,8 +1090,6 @@ You cannot place your tile on a “Land Claim” [49] played by another player.
 Note that placing Communities will NOT allow you ignore placement restrictions for a greenery (or “Mining Area” [42]) – these must still be placed next to a TILE you own, not just adjacent to or on a marker you own.
 
 [(Source 1, ](https://boardgamegeek.com/article/30006976#30006976)[Source 2, ](https://boardgamegeek.com/article/27635582#27635582)[Source 3)](https://boardgamegeek.com/article/31163534#31163534)
-
-## Corporation Card Clarifications
 
 ### Aridor (C)
 
@@ -2608,7 +2606,7 @@ If playing with the Venus Next expansion, this Award is added to the 5 existing 
 When played, this Prelude requires you to reveal cards (to all players) from the
 deck until you find two cards with a space tag; then, take those cards into hand and discard all other cards that were drawn. Both the cards that are drawn and discarded (if any) and the cards taken into hand should be visible to all players.
 
-### Ecology Experts
+## Ecology Experts
 
 When playing a card from hand, ONLY global requirements (temperature, ocean, oxygen, or Venus) can be ignored. Other requirements must be satisfied. Note that all 4 global parameters can be ignored (some translations of the card note only 3, which is an error.)
 
