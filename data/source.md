@@ -181,6 +181,12 @@ Yes. This applies to Arcadian Communities, Celestic, Inventrix, Morning Star Inc
 
 [(Source)](https://boardgamegeek.com/article/25942959#25942959)
 
+### How does a player with multiple first actions get resolved? [NEW]
+
+With the introduction of the Merger prelude, it's possible to have two corporations with a first action. (With Merger and Double Down, it's possible to have three first actions.) Your first action resolves both corporations' first action effects, after which you may take a second action.
+
+[(Source)](https://boardgamegeek.com/thread/2874012/article/40859020#40859020)
+
 ### What is the generation marker for?
 
 The generation marker is typically most useful in the solo game (indicates end game) and for the draft variant (indicates which direction to pass cards during the research phase – clockwise on even generations, counter-clockwise on odd generations.)
