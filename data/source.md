@@ -156,6 +156,8 @@ Below is an outline of the setup order, with various expansion steps delineated.
   those of other players.
 - The order that Preludes are played can matter in many cases (e.g.,
   money obtained from the first one can be used for the second, or cards obtained from the first Prelude can be played using the second.)
+- If you try to play a prelude card and it turns out to be unplayable for any reason, you must prove this to your opponents, discard it back to the box, and gain 15 MC. [NEW]
+
 
 8. The game begins with the Action phase of the Starting player.
 
@@ -163,7 +165,7 @@ NOTES: It is possible that early revealed corporation tags may not trigger later
 
 Tags revealed on Prelude cards will also trigger corporation effects. Note that the setup phase (Corporation and Prelude phase) is considered part of Generation 1 of the game.
 
-[(Source 1,](https://boardgamegeek.com/thread/1985937/revealing-corps/page/1) [Source 2)](https://boardgamegeek.com/article/28143580#28143580)
+[(Source 1,](https://boardgamegeek.com/thread/1985937/revealing-corps/page/1) [Source 2)](https://boardgamegeek.com/article/28143580#28143580) [Source 3](https://boardgamegeek.com/thread/2993276/article/41533232#41533232)
 
 ### When do you decide what Prelude cards, corporations, and cards you are going to keep and play?
 
