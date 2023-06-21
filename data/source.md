@@ -1575,7 +1575,7 @@ If you choose to buy the drawn card as Polyphemos (or Terralabs), you must pay 5
 
 ### Capital [52] 008 (S)
 
-This tile is considered a city; therefore, it activates all city triggers (“Immigrant City” [44] – 1 MC Production, “Pets” – 1 Animal, etc.), will benefit from greeneries placed around it (in addition the ocean tiles), and follows all city placement restrictions (not adjacent to another city.) It counts as a city for other cards, as well as for the Mayor milestone.
+This tile is considered a city; therefore, it activates all city triggers (“Immigrant City” [44] – 1 MC Production, “Pets” [83] – 1 Animal, etc.), will benefit from greeneries placed around it (in addition the ocean tiles), and follows all city placement restrictions (not adjacent to another city.) It counts as a city for other cards, as well as for the Mayor milestone.
 
 The white city tile is used when this card is played to indicate that it counts points for adjacent water tiles in addition to greeneries.
 
@@ -2030,7 +2030,7 @@ You must pay for the space event **in full** before you can get the 3 MC and 3 h
 
 The action on this card can be used even after the oxygen has been maxed out, to obtain the steel/titanium rewards. Energy cubes must still be consumed to do so.
 
-### Pets 172 (S)
+### Pets [83] 172 (S)
 
 The effect of this card applies to cities that are not on Mars (“Ganymede Colony,” “Phobos Space Haven”, “Luna Metropolis”, “Stratopolis”, “Maxwell Base”, “Dawn City”, “Stanford Torus”) as well as those on Mars.
 
@@ -2069,7 +2069,7 @@ You cannot use the action on this card to if there are no animals in play that c
   corporation that are not protected (by “Protected Habitats” [73])
 
 - You have another project card or corporation card
-  containing animals that you are willing to remove
+  containing animals (except "Pets" [83]) that you are willing to remove
 
 - Predators has cubes on it already and you choose to
   consume a predator to produce a predator (in which case the number of animal resources on this card would remain unchanged)
@@ -3076,6 +3076,8 @@ This document was compiled by Jeffrey Anchan. Thanks to Jacob Fryxelius for desi
 [81] Maxwell Base (18 MC, Blue Card. 12% Venus Requirement), _Top - Action: Add 1 resource to ANOTHER VENUS CARD; Bottom - Requires Venus 12%. Decrease your energy production 1 step. Place a city tile ON THE RESERVED AREA._
 
 [82] Venus Waystation (9 MC, Blue Card), _Effect: When you play a Venus tag, you pay 2 MC less for it._
+
+[83] Pets (10 MC, Blue Card), _Effect: When any city tile is placed, add an animal to this card. ANIMALS MAY NOT BE REMOVED FROM THIS CARD; Bottom - Add 1 animal to this card. 1 VP per 2 animals here._
 
 ## How to Contribute
 
